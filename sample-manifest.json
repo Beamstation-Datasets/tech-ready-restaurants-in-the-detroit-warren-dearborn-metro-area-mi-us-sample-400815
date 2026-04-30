@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d6a0b2b6-758e-4420-91f6-8ada439bda52",
+  "export_job_id": "3bc5635f-8dc1-48e0-b7e0-503a360d3136",
   "id_short": 400815,
-  "published_at": "2026-04-22T19:40:33Z",
+  "published_at": "2026-04-30T07:23:11Z",
   "repo_name": "tech-ready-restaurants-in-the-detroit-warren-dearborn-metro-area-mi-us-sample-400815",
   "sample_asset_name": "beamstation_400815_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/400815/beamstation_400815_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "2b9437c2dc84b63bc729212f8c9bba820b76624f9b75de9d2e53ef038ff42761",
-  "sample_size_bytes": 19956,
-  "total_records": 19
+  "sample_records": 14,
+  "sample_sha256": "728df70aaf50cf0d1d1dc6e3b43b4b83ed8f6736464c3fdfffbc024e75c50da5",
+  "sample_size_bytes": 70268,
+  "total_records": 144
 }
