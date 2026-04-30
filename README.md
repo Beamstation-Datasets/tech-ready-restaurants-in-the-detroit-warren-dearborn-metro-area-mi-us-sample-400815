@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Detroit-Warren-Dearborn Metro Area, MI, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 14 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `400815` |
 | Location | Detroit-Warren-Dearborn, MI |
 | Category | Restaurants |
-| Full dataset size | 19 records |
-| Free sample size | 1 records (5.26%) |
-| Last export | 2026-04-22T18:27:22.558758+00:00 |
+| Full dataset size | 144 records |
+| Free sample size | 14 records (9.72%) |
+| Last export | 2026-04-29T17:48:57.831261+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-detroit-warren-dearborn-metro-area-mi-us-sample-400815/releases/download/sample-latest/beamstation_400815_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
